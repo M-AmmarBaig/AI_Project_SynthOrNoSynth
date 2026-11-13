@@ -1,0 +1,29 @@
+# Private Project Planning (Excluded per user instructions)
+docs/plans/
+docs/plans/*
+
+# Python & Environment
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.env
+.venv
+env/
+venv/
+ENV/
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+
+# IDE and System Files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Temporary data cache
+data/cache/*
+!data/cache/.gitkeep

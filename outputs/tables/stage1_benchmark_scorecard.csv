@@ -1,0 +1,6 @@
+Generator Model,1D KS Similarity (↑),2D Corr Error (↓),6-Cat Struct Zero % (↓),Cross-Feature Viol % (↓),TSTR ROC-AUC (↑),AUC Retention %
+0. Naive Independent,0.985,7.18,9.75,0.06,0.434,49.6
+1. Stratified Contingency,0.986,1.72,0.34,0.0,0.714,81.6
+2. Gaussian Copula,0.98,1.86,0.57,0.11,0.811,92.7
+3. Bayesian Network,0.984,2.12,0.28,0.0,0.746,85.3
+4. Deep TVAE,0.924,1.83,0.0,0.0,0.793,90.6
